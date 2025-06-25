@@ -11,7 +11,7 @@
 5. Crear una contraseña de aplicacion
    * En el apartado le pones el nombre de preferencia
    * Google nos dara un codigo de **16 caraceteres** el cual se muestra de forma unica. (**Solo una vez**)
-6. En el codigo se especifica donde se necesita el mismo (**Contraseña de aplicaciones**.)
+6. En el codigo se especifica donde se necesita el mismo (**Contraseña de aplicacion**.)
 
 # Correr el codigo
 ### inicializamos el proyecto
