@@ -4,7 +4,7 @@
 * Para enviar el correo NodeMailer nos exige una contraseña de apliacion la cual se consigue en en correo de Google que se elija para enviar el email
 
 ### Pasos para obtener la contraseña de aplicación
-1. Debemos activar la varificaciond de 2 pasos
+1. Debemos activar la varificaciond de 2 pasos (Esto lo exige Google para poder acceder a nuestro correo, ademas de asi habilitar la opcion de contraseña de aplicación
 
 ### inicializamos el proyecto
 * Se inicializa **npm init -y.**
