@@ -11,12 +11,14 @@
 5. Crear una contraseña de aplicacion
    * En el apartado le pones el nombre de preferencia
    * Google nos dara un codigo de **16 caraceteres** el cual se muestra de forma unica. (**Solo una vez**)
-6. En el codigo se especifica donde se necesita el mismo.
+6. En el codigo se especifica donde se necesita el mismo (**Contraseña de aplicaciones**.)
 
 # Correr el codigo
 ### inicializamos el proyecto
 * Se inicializa **npm init -y.**
 ### Despues se instala la dependencia NodeMailer.
 * Se instala con **npm install nodemailer**
+### Editamos el archivo node (**sendemail.js**)
+* Ingresamos los datos personales que corresponden al envio del email
 ### Para ejecutar el archivo principal (El cual enviara el correo en este caso Sendemail.js)
 * **node sendemail.js** (Con este archivo y todos los datos en el archivo se enviara con exito.)
