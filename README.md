@@ -14,6 +14,7 @@
 6. En el codigo se especifica donde se necesita el mismo (**Contraseña de aplicacion**.)
 
 # Correr el codigo
+
 ### inicializamos el proyecto
 * Se inicializa **npm init -y.**
 ### Despues se instala la dependencia NodeMailer.
