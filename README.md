@@ -13,6 +13,7 @@
    * Google nos dara un codigo de **16 caraceteres** el cual se muestra de forma unica. (**Solo una vez**)
 6. En el codigo se especifica donde se necesita el mismo.
 
+# Correr el codigo
 ### inicializamos el proyecto
 * Se inicializa **npm init -y.**
 ### Despues se instala la dependencia NodeMailer.
