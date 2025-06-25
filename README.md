@@ -7,7 +7,7 @@
 1. Ir a Administrar cuenta de google
 2. Ir al apartado seguridad
 3. Debemos activar la varificaciond de 2 pasos (Esto lo exige Google para poder acceder a nuestro correo, ademas de asi habilitar la opcion de contraseña de aplicación.) **Obligatorio**
-4. Buscar la funcion ** Contraseña de aplicacion**
+4. Buscar la funcion **Contraseña de aplicacion**
 5. Crear una 
 
 ### inicializamos el proyecto
