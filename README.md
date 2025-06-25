@@ -1,8 +1,7 @@
 ## Emitir Email con NodeMailer
 
 ### Contraseña de aplicacion
-* Para enviar el correo NodeMailer nos exige una contraseña de apliacion la cual se consigue en en correo de Google que
-* se elija para enviar el email
+* Para enviar el correo NodeMailer nos exige una contraseña de apliacion la cual se consigue en en correo de Google que se elija para enviar el email
 
 ### inicializamos el proyecto
 * Se inicializa **npm init -y.**
